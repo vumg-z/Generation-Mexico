@@ -1,9 +1,6 @@
 
 <h1 align="center">
-  
-  <br/>
   Recursos Generation
-  <br>
 </h1>
 
 <h4 align="center">Lista de resúmenes de los cursos de <a href="https://mexico.generation.org/" target="_blank"> Generation </a>.</h4>
