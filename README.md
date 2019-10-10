@@ -11,6 +11,30 @@
 </p>
 
 
+## Tabla de Contenido
+
+### Programación
+
+1. [Algoritmos]
+
+2. [Git]
+
+3. [Java]
+
+### Softskills
+
+1.- [Mentalidades]
+
+2.- [Comportamientos]
+
+### Ingles
+
+1.- [pendiente]
+
+
+
+
+
 ## Quiero seguir aprendiendo
 
 [Generation](https://mexico.generation.org/) Impulsa tu carrera profesional
