@@ -31,9 +31,13 @@
 
 1.- [pendiente]
 
+### Recursos
 
+1.- Libros 
 
+2.- Pon a prueba tus habilidades
 
+Hola, el objetivo de este proyecto es poner una referencia util de todo lo que he visto en Generation.
 
 ## Quiero seguir aprendiendo
 
