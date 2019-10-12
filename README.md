@@ -15,11 +15,11 @@
 
 ### Programación
 
-1. [Algoritmos]
+1. [Algoritmos](Algoritmos/README.md)
 
-2. [Git](git/README.md)
+2. [Git](Git/README.md)
 
-3. [Java](java/README.md)
+3. [Java](Java/README.md)
 
 ### Softskills
 
