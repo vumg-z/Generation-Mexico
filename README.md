@@ -17,9 +17,9 @@
 
 1. [Algoritmos]
 
-2. [Git]
+2. [Git](git/README.md)
 
-3. [Java]
+3. [Java](java/README.md)
 
 ### Softskills
 
