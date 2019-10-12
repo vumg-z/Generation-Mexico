@@ -44,8 +44,8 @@
 
 ### Recursos
 
-1. [Pro Git book] (https://git-scm.com/book/es/v2)
-2. [La guia sencilla de git] (https://rogerdudler.github.io/git-guide/index.es.html)
+1. [Pro Git book](https://git-scm.com/book/es/v2)
+2. [La guia sencilla de git](https://rogerdudler.github.io/git-guide/index.es.html)
 
 <div align="right">
   <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
