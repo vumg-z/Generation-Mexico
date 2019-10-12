@@ -23,19 +23,19 @@
 
 ### Softskills
 
-1.- [Mentalidades](Softskills/Mentalidades/README.md)
+1. [Mentalidades](Softskills/Mentalidades/README.md)
 
-2.- [Comportamientos](Softskills/Comportamientos/README.md)
+2. [Comportamientos](Softskills/Comportamientos/README.md)
 
 ### Ingles
 
-1.- [pendiente]
+1. [pendiente]
 
 ### Recursos
 
-1.- Libros 
+1. Libros 
 
-2.- Pon a prueba tus habilidades
+2. Pon a prueba tus habilidades
 
 Hola, el objetivo de este proyecto es poner una referencia util de todo lo que he visto en Generation.
 
