@@ -1,20 +1,21 @@
 
 <h1 align="center">
-  Algoritmos
+  JAVA
 </h1>
 
-<h4 align="center"> Todo lo aprendido en  <a href="https://mexico.generation.org/" target="_blank"> Generation </a> sobre Algoritmos.</h4>
+<h4 align="center"> Todo lo aprendido en  <a href="https://mexico.generation.org/" target="_blank"> Generation </a> sobre Java.</h4>
 
 ## Tabla de Contenido
 
-### Git
+### JAVA
 
 1. [Fundamentos](#fundamentos)
 
-2. [Ejercicios](#ejercicios)
+2. [POO](#poo)
 
-3. [Recursos](#recursos)
+3. [Ejercicios](#ejercicios)
 
+4. [Recursos](#recursos)
 
 ### Fundamentos 
 
@@ -24,15 +25,15 @@
   <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
 </div>
 
-### Comandos 
+### POO 
 
-(comandos aqui)
+(poo aqui)
 
 <div align="right">
   <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
 </div>
 
-### Ejercicios 
+### Ejercicios
 
 (ejercicios aqui)
 
@@ -42,7 +43,7 @@
 
 ### Recursos
 
-(recursos aqui)
+1. Libros y sitios donde practicar
 
 <div align="right">
   <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>

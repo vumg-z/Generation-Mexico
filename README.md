@@ -15,17 +15,17 @@
 
 ### Programación
 
-1. [Algoritmos](Algoritmos/README.md)
+1. [Algoritmos](Programacion/Algoritmos/README.md)
 
-2. [Git](Git/README.md)
+2. [Git](Programacion/Git/README.md)
 
-3. [Java](Java/README.md)
+3. [Java](Programacion/Java/README.md)
 
 ### Softskills
 
-1.- [Mentalidades]
+1.- [Mentalidades](Softskills/Mentalidades/README.md)
 
-2.- [Comportamientos]
+2.- [Comportamientos](Softskills/Comportamientos/README.md)
 
 ### Ingles
 
