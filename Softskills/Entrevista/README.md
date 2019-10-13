@@ -45,15 +45,12 @@ Que debes responder a las preguntas comunes de RH.
 
 ### Recursos
 
-1. [Preguntas](https://www.occ.com.mx/blog/preguntas-entrevista-de-trabajo-que-debes-dominar/)
+1. [Respuestas a las preguntas](https://www.occ.com.mx/blog/preguntas-entrevista-de-trabajo-que-debes-dominar/)
 
 <div align="right">
   <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
 </div>
 
-## Quiero seguir aprendiendo
-
-[Generation](https://mexico.generation.org/) Impulsa tu carrera profesional
 
 
 
