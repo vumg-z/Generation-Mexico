@@ -7,8 +7,6 @@
 
 ## Tabla de Contenido
 
-### Comportamienos 
-
 1. [Introduccion](#introduccion)
 
 2. [Preguntas](#preguntas)
