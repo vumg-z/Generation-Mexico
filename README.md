@@ -27,7 +27,7 @@
 
 2. [Comportamientos](Softskills/Comportamientos/README.md)
 
-3.- [Entrevista](Softskills/Entrevista/README.md)
+3. [Entrevista](Softskills/Entrevista/README.md)
 
 ### Ingles
 
