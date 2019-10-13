@@ -25,10 +25,6 @@ Una entrevista de trabajo puede ser intimidante al principio.
 
 Que debes responder a las preguntas comunes de RH.
 
-<div align="right">
-  <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
-</div>
-
 1. Hablame de ti 
 
 2. Por que estas buscando trabajo? 
