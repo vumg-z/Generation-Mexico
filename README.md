@@ -36,11 +36,11 @@
 
 ### Recursos
 
-1. Libros 
+1. [Libros](Recursos/Libros/README.md)
 
-2. Pon a prueba tus habilidades
+2. [Pon a prueba tus habilidades](Recursos/GYM/README.md)
 
-## Que es Generation?
+## ¿Que es Generation?
 
 [Generation](https://mexico.generation.org/) Impulsa tu carrera profesional
 
