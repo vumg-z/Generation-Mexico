@@ -31,7 +31,8 @@
 
 ### Ingles
 
-1. [pendiente]
+1. [Sitios donde practicar](Ingles/Sitios/README.md)
+2. [Consejos](Ingles/Consejos/README.md)
 
 ### Recursos
 
