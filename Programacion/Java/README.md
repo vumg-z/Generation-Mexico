@@ -13,9 +13,11 @@
 
 2. [POO](#poo)
 
-3. [Ejercicios](#ejercicios)
+3. [Procesos](#procesos)
 
-4. [Recursos](#recursos)
+4. [Ejercicios](#ejercicios)
+
+5. [Recursos](#recursos)
 
 ### Fundamentos 
 
@@ -33,9 +35,25 @@
   <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
 </div>
 
+### Procesos
+
+```
+if()
+```
+
+```
+Switch Case()
+```
+```
+For()
+```
+```
+While()
+```
+
 ### Ejercicios
 
-(ejercicios aqui)
+Todos mis ejercicios en [este repositorio](https://github.com/UrielMendozaG/Java)
 
 <div align="right">
   <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
