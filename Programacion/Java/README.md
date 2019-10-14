@@ -9,17 +9,18 @@
 
 ### JAVA
 
-1. [Fundamentos](#fundamentos)
+- [Fundamentos](#fundamentos)
 
-2. [POO](#poo)
+- [POO](#poo)
+  - [Pilares](#pilares)
 
-3. [Procesos](#procesos)
+- [Procesos](#procesos)
 
-4. [Ejercicios](#ejercicios)
+- [Ejercicios](#ejercicios)
 
-5. [Recursos](#recursos)
+- [Recursos](#recursos)
 
-### Fundamentos 
+## Fundamentos 
 
 (fundamentos aqui)
 
@@ -27,15 +28,44 @@
   <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
 </div>
 
-### POO 
+## POO
+    La poo surgio de la necesidad de simular sistemas de forma sencilla. 
 
-(poo aqui)
+    La idea basica consiste en simuar conceptos que son fundamentales en el 
+    pensamiento humano. 
+
+    Esta organizacion se basa en el tipo de cosas o tipos de objetos con lo ques 
+    que convivimos diariamente.
+
+### Pilares de la programacion orientada a objetos
+
+#### Herencia: 
+
+    Es el pilar más fuerte que asegura la reutilización de código, ya que a partir de esta característica 
+    es posible reutilizar (heredar) las características y comportamientos de una clase superior 
+    llamada clase padre, a sus clases hijas, denominadas clases derivadas. Esto implica que una vez desarrollado 
+    el código de una clase base, su código puede ser reutilizado por las clases derivadas
+
+#### Abstraccion: 
+
+    Es el proceso mental de transformar el mundo real a un modelo en programacion orientada 
+    a objetos.
+
+#### Encapsulamiento:
+
+    El conjunto de tecnicas que nos permiten ocultar la implementacion de nuestra aplicacion.
+    Para que un objeto solamente tenga acceso a lo que le importa.
+            
+#### Polimorfismo
+                
+    Es el mecanismo por el cual un objeto puede contestar al mismo mensaje de diferentes maneras.
+
 
 <div align="right">
   <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
 </div>
 
-### Procesos
+## Procesos
 
 ```
 if()
@@ -51,15 +81,15 @@ For()
 While()
 ```
 
-### Ejercicios
+## Ejercicios
 
-Todos mis ejercicios en [este repositorio](https://github.com/UrielMendozaG/Java)
+Todos mis ejercicios los puedes encontrar en [este repositorio](https://github.com/UrielMendozaG/Java)
 
 <div align="right">
   <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
 </div>
 
-### Recursos
+## Recursos
 
 1. Libros y sitios donde practicar
 
