@@ -13,7 +13,7 @@
   - [La maquina virtual de Java](#lamaquinavirtualdejava)
 
 - [POO](#poo)
-  - [Pilares](Pilaresdelaprogramacionorientadaaobjetos)
+  - [Pilares](#Pilaresdelaprogramacionorientadaaobjetos)
 
 - [Ejercicios](#ejercicios)
   - [Bubble Sort](#bubblesort)
