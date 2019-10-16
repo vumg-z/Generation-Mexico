@@ -16,9 +16,9 @@
   - [Pilares](#Pilares-de-la-programacion-orientada-a-objetos)
 
 - [Ejercicios](#ejercicios)
-  - [Bubble Sort](#bubblesort)
-  - [Binary Search](#binarysearch)
-  - [Sequential Search](#secuentialsearch)
+  - [Bubble Sort](#bubble-sort)
+  - [Binary Search](#binary-search)
+  - [Sequential Search](#secuential-search)
 
 - [Recursos](#recursos)
 
@@ -108,6 +108,10 @@ Todos mis ejercicios los puedes encontrar en [este repositorio](https://github.c
 
   [Ejemplo aqui](https://github.com/UrielMendozaG/Bubble-Sort)
   
+  <div align="right">
+  <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
+</div>
+  
 ### Sequential search
 
     La búsqueda secuencial es un método para encontrar un 
@@ -115,6 +119,10 @@ Todos mis ejercicios los puedes encontrar en [este repositorio](https://github.c
     para el valor objetivo hasta que es encontrado o hasta que todos los elementos hayan sido comparados.
 
   [Ejemplo aqui](https://github.com/UrielMendozaG/Sequential-Search)
+  
+  <div align="right">
+  <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
+</div>
   
 ### Binary Search
 
