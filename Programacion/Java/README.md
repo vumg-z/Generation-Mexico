@@ -16,9 +16,9 @@
   - [Pilares](#pilares)
 
 - [Ejercicios](#ejercicios)
-  -[Bubble Sort](#bubblesort)
-  -[Binary Search](#binarysearch)
-  -[Sequential Search](#secuentialsearch)
+  - [Bubble Sort](#bubblesort)
+  - [Binary Search](#binarysearch)
+  - [Sequential Search](#secuentialsearch)
 
 - [Recursos](#recursos)
 
@@ -121,6 +121,10 @@ Todos mis ejercicios los puedes encontrar en [este repositorio](https://github.c
     En ciencias de la computación y matemáticas, la búsqueda binaria, también conocida como búsqueda 
     de intervalo medio o  búsqueda logarítmica, es un algoritmo de búsqueda que encuentra la posición 
     de un valor en un array ordenado.
+    
+    Compara el valor con el elemento en el medio del array, si no son iguales, la mitad en la cual el 
+    valor no puede estar es eliminada y la búsqueda continúa en la mitad restante hasta que el valor 
+    se encuentre. 
     
    [Ejemplo aqui](https://github.com/UrielMendozaG/Binary-Search)
    
