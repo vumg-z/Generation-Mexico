@@ -10,10 +10,10 @@
 ### JAVA
 
 - [Fundamentos](#fundamentos)
-  - [La maquina virtual de Java](#lamaquinavirtualdejava)
+  - [La maquina virtual de Java](#la-maquina-virtual-de-java)
 
 - [POO](#poo)
-  - [Pilares](#Pilares de la programacion orientada a objetos)
+  - [Pilares](#Pilares-de-la-programacion-orientada-a-objetos)
 
 - [Ejercicios](#ejercicios)
   - [Bubble Sort](#bubblesort)
