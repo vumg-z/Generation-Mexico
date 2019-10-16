@@ -18,7 +18,7 @@
 - [Ejercicios](#ejercicios)
   - [Bubble Sort](#bubble-sort)
   - [Binary Search](#binary-search)
-  - [Sequential Search](#secuential-search)
+  - [Sequential Search](#Sequential-search)
 
 - [Recursos](#recursos)
 
