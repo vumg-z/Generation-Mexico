@@ -33,14 +33,24 @@ y las cadenas de caracteres en Java son objetos de la clase String.
  
  La Máquina Virtual Java (JVM) es el entorno en el que se ejecutan los programas Java, 
  su misión principal es la de   garantizar la portabilidad de las aplicaciones Java. 
+ 
  Define esencialmente un ordenador abstracto y especifica las instrucciones (bytecodes) 
- que este ordenador puede ejecutar. El intérprete Java específico ejecuta las instrucciones 
- que se guardan en los archivos cuya extensión es .class. Las tareas principales de la JVM son las siguientes:
- Reservar espacio en memoria para los objetos creados
- Liberar la memoria no usada (garbage collection).
- Asignar variables a registros y pilas
- Llamar al sistema huésped para ciertas funciones, como los accesos a los dispositivos
- Vigilar el cumplimiento de las normas de seguridad de las aplicaciones Java
+ que este ordenador puede ejecutar. 
+ 
+ El intérprete Java específico ejecuta las instrucciones 
+ que se guardan en los archivos cuya extensión es .class. 
+ 
+ Las tareas principales de la JVM son las siguientes:
+ 
+  - Reservar espacio en memoria para los objetos creados
+  
+  - Liberar la memoria no usada (garbage collection).
+  
+  - Asignar variables a registros y pilas
+  
+  - Llamar al sistema huésped para ciertas funciones, como los accesos a los dispositivos
+  
+  - Vigilar el cumplimiento de las normas de seguridad de las aplicaciones Java
 
 Esta última tarea, es una de las más importantes que realiza la JVM. Además, las prop
 especificaciones del lenguaje Java contribuyen extraordinariamente a este objetivo: 
@@ -50,8 +60,6 @@ especificaciones del lenguaje Java contribuyen extraordinariamente a este objeti
   - La JVM gestiona automáticamente el uso de la memoria, de modo que no queden huecos.
   - No se permiten realizar ciertas conversiones (casting) entre distintos tipos de dat
   
-- [aprende mas aqui](http://www.sc.ehu.es/sbweb/fisica/cursoJava/fundamentos/introduccion/indice_intro.htm)
-
 ### Tipos de datos primitivos
 
    
