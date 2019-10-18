@@ -128,7 +128,7 @@ que convivimos diariamente.
   Funciona revisando cada elemento de la lista que va a ser ordenada con el siguiente, 
   intercambiándolos de posición si están en el orden equivocado
 
-    [Ejemplo aqui](https://github.com/UrielMendozaG/Bubble-Sort)
+   [Ejemplo aqui](https://github.com/UrielMendozaG/Bubble-Sort)
   
   <div align="right">
   <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
