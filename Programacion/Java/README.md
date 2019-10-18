@@ -96,39 +96,39 @@ que convivimos diariamente.
 
 #### Herencia: 
 
-Es el pilar más fuerte que asegura la reutilización de código, ya que a partir 
-de esta característica es posible reutilizar (heredar) las características y 
-comportamientos de una clase superior llamada clase padre, a sus clases hijas, 
-denominadas clases derivadas. 
-    
-Esto implica que una vez desarrollado el código de una clase base, su código puede 
-ser reutilizado por las clases derivadas.
+  Es el pilar más fuerte que asegura la reutilización de código, ya que a partir 
+  de esta característica es posible reutilizar (heredar) las características y 
+  comportamientos de una clase superior llamada clase padre, a sus clases hijas, 
+  denominadas clases derivadas. 
+
+  Esto implica que una vez desarrollado el código de una clase base, su código puede 
+  ser reutilizado por las clases derivadas.
 
 #### Abstraccion: 
 
-Es el proceso mental de transformar el mundo real a un modelo en programacion orientada 
-a objetos.
+  Es el proceso mental de transformar el mundo real a un modelo en programacion orientada 
+  a objetos.
 
 #### Encapsulamiento:
 
-El conjunto de tecnicas que nos permiten ocultar la implementacion de nuestra aplicacion.
-Para que un objeto solamente tenga acceso a lo que le importa.
+  El conjunto de tecnicas que nos permiten ocultar la implementacion de nuestra aplicacion.
+  Para que un objeto solamente tenga acceso a lo que le importa.
         
 #### Polimorfismo
                 
-Es el mecanismo por el cual un objeto puede contestar al mismo mensaje de diferentes maneras.
+  Es el mecanismo por el cual un objeto puede contestar al mismo mensaje de diferentes maneras.
 
 ## Ejercicios
 
-Todos mis ejercicios los puedes encontrar en [este repositorio](https://github.com/UrielMendozaG/Java)
+  Todos mis ejercicios los puedes encontrar en [este repositorio](https://github.com/UrielMendozaG/Java)
 
 ### Bubble Sort
 
-La Ordenación de burbuja (Bubble Sort en inglés) es un sencillo algoritmo de ordenamiento. 
-Funciona revisando cada elemento de la lista que va a ser ordenada con el siguiente, 
-intercambiándolos de posición si están en el orden equivocado
+  La Ordenación de burbuja (Bubble Sort en inglés) es un sencillo algoritmo de ordenamiento. 
+  Funciona revisando cada elemento de la lista que va a ser ordenada con el siguiente, 
+  intercambiándolos de posición si están en el orden equivocado
 
-  [Ejemplo aqui](https://github.com/UrielMendozaG/Bubble-Sort)
+    [Ejemplo aqui](https://github.com/UrielMendozaG/Bubble-Sort)
   
   <div align="right">
   <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
@@ -136,9 +136,9 @@ intercambiándolos de posición si están en el orden equivocado
   
 ### Sequential search
 
-La búsqueda secuencial es un método para encontrar un 
-valor objetivo dentro de una lista.Ésta comprueba secuencialmente cada elemento de la lista 
-para el valor objetivo hasta que es encontrado o hasta que todos los elementos hayan sido comparados.
+  La búsqueda secuencial es un método para encontrar un 
+  valor objetivo dentro de una lista.Ésta comprueba secuencialmente cada elemento de la lista 
+  para el valor objetivo hasta que es encontrado o hasta que todos los elementos hayan sido comparados.
 
   [Ejemplo aqui](https://github.com/UrielMendozaG/Sequential-Search)
   
@@ -148,12 +148,12 @@ para el valor objetivo hasta que es encontrado o hasta que todos los elementos h
   
 ### Binary Search
 
-En ciencias de la computación y matemáticas, la búsqueda binaria, también conocida como búsqueda 
-de intervalo medio o  búsqueda logarítmica, es un algoritmo de búsqueda que encuentra la posición 
-de un valor en un array ordenado.
-Compara el valor con el elemento en el medio del array, si no son iguales, la mitad en la cual el 
-valor no puede estar es eliminada y la búsqueda continúa en la mitad restante hasta que el valor 
-se encuentre. 
+  En ciencias de la computación y matemáticas, la búsqueda binaria, también conocida como búsqueda 
+  de intervalo medio o  búsqueda logarítmica, es un algoritmo de búsqueda que encuentra la posición 
+  de un valor en un array ordenado.
+  Compara el valor con el elemento en el medio del array, si no son iguales, la mitad en la cual el 
+  valor no puede estar es eliminada y la búsqueda continúa en la mitad restante hasta que el valor 
+  se encuentre. 
     
    [Ejemplo aqui](https://github.com/UrielMendozaG/Binary-Search)
    
