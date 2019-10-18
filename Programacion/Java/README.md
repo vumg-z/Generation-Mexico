@@ -56,8 +56,11 @@ Esta última tarea, es una de las más importantes que realiza la JVM. Además, 
 especificaciones del lenguaje Java contribuyen extraordinariamente a este objetivo: 
   
   - Las referencias a arrays son verificadas en el momento de la ejecución del programa
+  
   - No hay manera de manipular de forma directa los punteros
+  
   - La JVM gestiona automáticamente el uso de la memoria, de modo que no queden huecos.
+  
   - No se permiten realizar ciertas conversiones (casting) entre distintos tipos de dat
   
 ### Tipos de datos primitivos
