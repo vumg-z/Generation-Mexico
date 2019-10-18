@@ -53,6 +53,20 @@
     
 - [aprende mas aqui](http://www.sc.ehu.es/sbweb/fisica/cursoJava/fundamentos/introduccion/indice_intro.htm)
 
+#### Tipos de datos primitivos
+
+   
+| Tipo | Descripcion |
+| ----- | ---- |
+| boolean | Tiene dos valores true o false |
+| char | Caracteres Unicode de 16 bits  Los caracteres alfa-numéricos son los mismos que los ASCII con el bit alto puesto a 0. El intervalo de valores va desde 0 hasta 65535 (valores de 16-bits sin signo).   |
+| byte |  	Tamaño 8 bits.  El intervalo de valores va desde -27 hasta 27 -1 (-128 a 127)  |
+| short | Tamaño 16 bits.  El intervalo de valores va desde -215 hasta 215-1 (-32768 a 32767) |
+| int | Tamaño 32 bits.  El intervalo de valores va desde -231 hasta 231-1 (-2147483648 a 2147483647)  |
+| long | Tamaño 64 bits. El intervalo de valores va desde -263 hasta  263-1 (-9223372036854775808 a 9223372036854775807)  |
+| float |  	Tamaño 32 bits. Números en coma flotante de simple precisión. Estándar IEEE 754-1985  (de 1.40239846e–45f a 3.40282347e+38f)  |
+| double |  	Tamaño 64 bits. Números en coma flotante de doble precisión. Estándar IEEE 754-1985. (de 4.94065645841246544e–324d  a 1.7976931348623157e+308d.) |
+
 <div align="right">
   <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
 </div>
