@@ -11,6 +11,7 @@
 
 - [Fundamentos](#fundamentos)
   - [La maquina virtual de Java](#la-maquina-virtual-de-java)
+  - [Tipos de datos primitivos](#tipos-de-datos-primitivos)
 
 - [POO](#poo)
   - [Pilares](#Pilares-de-la-programacion-orientada-a-objetos)
@@ -53,7 +54,7 @@
     
 - [aprende mas aqui](http://www.sc.ehu.es/sbweb/fisica/cursoJava/fundamentos/introduccion/indice_intro.htm)
 
-#### Tipos de datos primitivos
+### Tipos de datos primitivos
 
    
 | Tipo | Descripcion |
