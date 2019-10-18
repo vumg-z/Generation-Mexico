@@ -33,11 +33,8 @@ y las cadenas de caracteres en Java son objetos de la clase String.
  
  La Máquina Virtual Java (JVM) es el entorno en el que se ejecutan los programas Java, 
  su misión principal es la de   garantizar la portabilidad de las aplicaciones Java. 
- 
  Define esencialmente un ordenador abstracto y especifica las instrucciones (bytecodes) 
- que este ordenador puede ejecutar. 
- 
- El intérprete Java específico ejecuta las instrucciones 
+ que este ordenador puede ejecutar. El intérprete Java específico ejecuta las instrucciones 
  que se guardan en los archivos cuya extensión es .class. 
  
  Las tareas principales de la JVM son las siguientes:
