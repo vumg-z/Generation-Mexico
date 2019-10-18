@@ -1,4 +1,3 @@
-
 <h1 align="center">
   JAVA
 </h1>
@@ -19,7 +18,7 @@
 - [Ejercicios](#ejercicios)
   - [Bubble Sort](#bubble-sort)
   - [Binary Search](#binary-search)
-  - [Sequential Search](#Sequential-search)
+  - [Sequential Search](#sequential-search)
 
 - [Recursos](#recursos)
 
@@ -51,8 +50,6 @@
     - La JVM gestiona automáticamente el uso de la memoria, de modo que no queden huecos.
     - No se permiten realizar ciertas conversiones (casting) entre distintos tipos de datos.
 
-    
-- [aprende mas aqui](http://www.sc.ehu.es/sbweb/fisica/cursoJava/fundamentos/introduccion/indice_intro.htm)
 
 ### Tipos de datos primitivos
 
@@ -113,8 +110,6 @@
 
 ## Ejercicios
 
-Todos mis ejercicios los puedes encontrar en [este repositorio](https://github.com/UrielMendozaG/Java)
-
 ### Bubble Sort
 
     La Ordenación de burbuja (Bubble Sort en inglés) es un sencillo algoritmo de ordenamiento. 
@@ -154,6 +149,13 @@ Todos mis ejercicios los puedes encontrar en [este repositorio](https://github.c
 <div align="right">
   <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
 </div>
+
+### Paint Java
+
+    Paint es una apicacion donde puedes crear un figuras, en este ejemplo se hace una simulacion 
+    abstracta de la estructura y metodos de todo el programa Paint.
+
+[Ejemplo aqui](https://github.com/UrielMendozaG/Paint-Java)
 
 ## Recursos
 
