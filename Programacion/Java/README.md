@@ -157,6 +157,23 @@
 
 [Ejemplo aqui](https://github.com/UrielMendozaG/Paint-Java)
 
+<div align="right">
+  <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
+</div>
+
+### Strings
+
+    Las cadenas, que se usan ampliamente en la programación Java, son una secuencia de caracteres. En el lenguaje de 
+    programación Java, las cadenas son objetos.
+
+    La plataforma Java proporciona la clase String para crear y manipular cadenas.
+
+[Ejemplo aqui](https://github.com/UrielMendozaG/Strings)
+
+<div align="right">
+  <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
+</div>
+
 ## Recursos
 
 - [Aprender Java](http://www.sc.ehu.es/sbweb/fisica/cursoJava/fundamentos/fundamentos.htm)
