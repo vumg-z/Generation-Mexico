@@ -19,6 +19,8 @@
   - [Bubble Sort](#bubble-sort)
   - [Binary Search](#binary-search)
   - [Sequential Search](#sequential-search)
+  - [Paint](#Paint-Java)
+  - [Strings](#Strings)
 
 - [Recursos](#recursos)
 
