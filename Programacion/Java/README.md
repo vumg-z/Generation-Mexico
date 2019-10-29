@@ -6,7 +6,7 @@
 
 ## Tabla de Contenido
 
-### JAVA
+### Java
 
 - [Fundamentos](#fundamentos)
   - [La maquina virtual de Java](#la-maquina-virtual-de-java)
