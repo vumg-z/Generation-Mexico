@@ -13,32 +13,11 @@
 
 ## Tabla de Contenido
 
-### Programación
-
 1. [Algoritmos](Programacion/Algoritmos/README.md)
 
 2. [Git](Programacion/Git/README.md)
 
 3. [Java](Programacion/Java/README.md)
-
-### Softskills
-
-1. [Mentalidades](Softskills/Mentalidades/README.md)
-
-2. [Comportamientos](Softskills/Comportamientos/README.md)
-
-3. [Entrevista](Softskills/Entrevista/README.md)
-
-### Ingles
-
-1. [Sitios donde practicar](Ingles/Sitios/README.md)
-2. [Consejos](Ingles/Consejos/README.md)
-
-### Recursos
-
-1. [Libros](Recursos/Libros/README.md)
-
-2. [Pon a prueba tus habilidades](Recursos/GYM/README.md)
 
 ## ¿Que es Generation?
 
