@@ -11,9 +11,9 @@
 - [Fundamentos](#fundamentos)
   - [La maquina virtual de Java](#la-maquina-virtual-de-java)
   - [Tipos de datos primitivos](#tipos-de-datos-primitivos)
-
-- [POO](#poo)
-  - [Pilares](#Pilares-de-la-programacion-orientada-a-objetos)
+  - [POO](#Pilares-de-la-programacion-orientada-a-objetos)
+  
+ - [Ejercicios](https://github.com/UrielMendozaG/Java)
 
 - [Recursos](#recursos)
 
