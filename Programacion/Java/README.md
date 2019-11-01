@@ -122,13 +122,13 @@
     
 ### ¿Qué es un patron? 
     
-    Un patrón de diseño es una descripción de clases y objetos comunicándose entre sí adaptada para resolver un problema 
-    de diseño general en un contexto particular.
+    Un patrón de diseño es una descripción de clases y objetos comunicándose entre sí adaptada para resolver 
+    un problema de diseño general en un contexto particular.
     
     Son formas “estandarizadas” de resolver problemas comunes de diseño en el desarrollo de software.
     
-    Los patrones de diseño son la base para la búsqueda de soluciones a problemas comunes en el desarrollo de software 
-    y otros ámbitos referentes al diseño de interacción o interfaces.
+    Los patrones de diseño son la base para la búsqueda de soluciones a problemas comunes en el desarrollo 
+    de software y otros ámbitos referentes al diseño de interacción o interfaces.
     
     Estos básicamente son  modelos muestra que sirven como guía para que los programadores trabajen sobre ellos.
     
@@ -144,7 +144,8 @@
 #### Modelo
 
     Es el componente central del patrón. 
-    Expresa el comportamiento de la aplicación en términos del dominio del problema, independientemente de la interfaz de usuario.
+    Expresa el comportamiento de la aplicación en términos del dominio del problema, independientemente de la 
+    interfaz de usuario.
     Gestiona directamente los datos, la lógica y las reglas de la aplicación.
     
 #### Vista
@@ -173,8 +174,8 @@ luego unirlas en tiempo de ejecución
 
 #### ¿Que es un servlet?
 
-    Los Servlets son módulos escritos en Java que se utilizan en un servidor, estos atenderán las peticiones (requests) 
-    según el método HTTP de la misma y generarán las respuesta para el cliente (response).
+    Los Servlets son módulos escritos en Java que se utilizan en un servidor, estos atenderán las peticiones 
+    (requests) según el método HTTP de la misma y generarán las respuesta para el cliente (response).
     
     Su principal misión será orquestar/controlar qué hacer según las peticiones del usuario.
     
