@@ -13,9 +13,20 @@
   - [Tipos de datos primitivos](#tipos-de-datos-primitivos)
   - [POO](#Pilares-de-la-programacion-orientada-a-objetos)
  
- - [MVC](#¿Que-es-una-arquitectura?)
+ - [MVC](#que-es-una-arquitectura)
+  - [Qué es un patron de diseño](#qué-es-un-patron)
+  - [Qué es el patron MVC](#qué-es-el-patrón-mvc)
+  - [Partes del MVC](#de-qué-partes-se-compone-el-patron-mvc)
+    - [Modelo](#modelo)
+    - [Vista](#vista)
+    - [Controlador](#controlador)
+    - [Ventajas del MVC](#ventajas-del-mvc)
+    - [Servlet](#que-es-un-servlet)
+    - [Java Beans](#java-beans)
+    - [JSP](#jsp)
   
- - [Ejercicios](https://github.com/UrielMendozaG/Java)
+  
+- [Ejercicios](https://github.com/UrielMendozaG/Java)
 
 - [Recursos](#recursos)
 
