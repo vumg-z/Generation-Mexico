@@ -12,6 +12,8 @@
   - [La maquina virtual de Java](#la-maquina-virtual-de-java)
   - [Tipos de datos primitivos](#tipos-de-datos-primitivos)
   - [POO](#Pilares-de-la-programacion-orientada-a-objetos)
+ 
+ - [MVC](#¿Que-es-una-arquitectura?)
   
  - [Ejercicios](https://github.com/UrielMendozaG/Java)
 
@@ -102,6 +104,81 @@
 #### Polimorfismo
                 
     Es el mecanismo por el cual un objeto puede contestar al mismo mensaje de diferentes maneras.
+    
+### ¿Que es una arquitectura? 
+
+    Estructura o forma en que algo está ordenado, dispuesto o construido.
+    
+### ¿Qué es un patron? 
+    
+    Un patrón de diseño es una descripción de clases y objetos comunicándose entre sí adaptada para resolver un problema 
+    de diseño general en un contexto particular.
+    
+    Son formas “estandarizadas” de resolver problemas comunes de diseño en el desarrollo de software.
+    
+    Los patrones de diseño son la base para la búsqueda de soluciones a problemas comunes en el desarrollo de software 
+    y otros ámbitos referentes al diseño de interacción o interfaces.
+    
+    Estos básicamente son  modelos muestra que sirven como guía para que los programadores trabajen sobre ellos.
+    
+    Un patrón de diseño es una manera de resolver un problema.
+    
+### ¿Qué es el patrón MVC?
+
+    El MVC o Modelo-Vista-Controlador es un patrón de arquitectura de software que, utilizando 3 componentes 
+    (Vistas, Models y  Controladores) separa la lógica de la aplicación de la lógica de la vista en una aplicación.
+    
+### ¿De qué partes se compone el patron MVC?
+
+#### Modelo
+
+    Es el componente central del patrón. 
+    Expresa el comportamiento de la aplicación en términos del dominio del problema, independientemente de la interfaz de usuario.
+    Gestiona directamente los datos, la lógica y las reglas de la aplicación.
+    
+#### Vista
+
+    Se encarga de la representación de salida de información.  
+    Se encarga de implementar la respuesta.
+    Son posibles múltiples vistas de la misma información.
+    
+#### Controlador
+
+    Acepta las peticiones del cliente y la convierte en comandos para el modelo o la vista.
+    Genera la respuesta para el cliente.
+    
+#### Ventajas del MVC
+
+- Al incorporar el modelo de arquitectura MVC las piezas de un programa se pueden construir por separado y 
+luego unirlas en tiempo de ejecución
+
+- La separación de capas en presentación, lógica de negocio y acceso a datos.
+
+- El costo de mantenimiento del sistema disminuye ya que la una modificación en una capa no debe afectar a las demás.
+
+- Incrementa la reutilización y flexibilidad.
+
+- En cualquier momento en que los datos del modelo cambien, el modelo le notifica a la vista que depende de él.
+
+#### ¿Que es un servlet?
+
+    Los Servlets son módulos escritos en Java que se utilizan en un servidor, estos atenderán las peticiones (requests) 
+    según el método HTTP de la misma y generarán las respuesta para el cliente (response).
+    
+    Su principal misión será orquestar/controlar qué hacer según las peticiones del usuario.
+    
+    Los servlets usarán los modelos (beans) y redirigirán hacia una vista (JSP) para generar el HTML.
+
+#### ¿Java Beans?
+
+    Los modelos serán Java Beans, clases simples Java que representen los modelos.
+    El controlador podrá acceder a estos modelos instanciándolos y usando sus métodos.
+    
+#### ¿JSP?
+
+    Las vistas serán implementadas usando páginas JSP.
+    Contendrán código HTML con fragmentos de código Java.
+    El controlador se encargará de redirigir hacia una vista determinada según la petición del usuario.
 
 ## Recursos
 
