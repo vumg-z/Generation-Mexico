@@ -116,6 +116,12 @@
                 
     Es el mecanismo por el cual un objeto puede contestar al mismo mensaje de diferentes maneras.
     
+#### Modificadores de acceso 
+
+     Los modificadores de acceso, como su nombre indica, determinan desde qué clases se puede acceder a un 
+     determinado elemento. En Java tenemos 4 tipos: public , private , protected y el tipo por defecto, que 
+     no tiene ninguna palabra clave asociada, pero se suele conocer como default o package-private.
+    
 ### ¿Que es una arquitectura? 
 
     Estructura o forma en que algo está ordenado, dispuesto o construido.
