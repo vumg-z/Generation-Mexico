@@ -186,12 +186,32 @@ luego unirlas en tiempo de ejecución
     Los modelos serán Java Beans, clases simples Java que representen los modelos.
     El controlador podrá acceder a estos modelos instanciándolos y usando sus métodos.
     
-#### ¿JSP?
+#### ¿Que es JSP?
 
+    Java ServerPages:
     Las vistas serán implementadas usando páginas JSP.
     Contendrán código HTML con fragmentos de código Java.
     El controlador se encargará de redirigir hacia una vista determinada según la petición del usuario.
+    Es parecido a PHP. 
+    Se usa una etiqueta especial <%  %>
+    
+#### ¿Cual es la diferencia enre un JSP y un Servlet?
 
+- Servlet es html en java, mientras que JSP es java en HTML.
+- Los servlet corren mas rapido que los JSP.
+- En MVC, JSP es la vista, mientras que Servlet es el controlador.
+
+#### ¿Que es un POJO?
+
+    Plain Old Java Object
+    
+#### ¿Que es una interfaz?
+
+    Es una especie de contrato que especifica que tenemos que utilizar 
+    
+#### ¿Cual es la diferencia entre abstract y interface?
+
+    
 ## Recursos
 
 - [Aprender Java](http://www.sc.ehu.es/sbweb/fisica/cursoJava/fundamentos/fundamentos.htm)
@@ -203,4 +223,4 @@ luego unirlas en tiempo de ejecución
 
 ## Quiero seguir aprendiendo
 
-[Generation](https://mexico.generation.org/) Impulsa tu carrera profesional
+- [Difference between servlets and jsp](https://www.quora.com/What-is-the-difference-between-Java-servlets-and-JSP)
