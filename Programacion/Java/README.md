@@ -30,8 +30,7 @@
       - [Controlador](#controlador)
         - [Servlet](#que-es-un-servlet)
         - [Ciclo de vida de un Servlet](#ciclo-de-vida-de-un-servlet)
-        
-    - [Cual es la diferencia entre un JSP y un Servlet](#cual-es-la-diferencia-enre-un-jsp-y-un-servlet)
+        - [Cual es la diferencia entre un JSP y un Servlet](#cual-es-la-diferencia-enre-un-jsp-y-un-servlet)
    
   
   
