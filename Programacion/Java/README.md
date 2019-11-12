@@ -150,6 +150,9 @@
     
 ### Ciclo de vida del desarrollo de software
 
+- Planificacion
+- Implementacion, pruebas y documentacion
+- Despliegue y mantenimiento
 
 ### ¿Que es una arquitectura? 
 
