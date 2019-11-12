@@ -26,8 +26,10 @@
         - [Java Beans](#java-beans)
       - [Vista](#vista)
         - [JSP](#jsp)
+        - [Ciclo de vida de un JSP](#ciclo-de-vida-de-un-jsp)
       - [Controlador](#controlador)
         - [Servlet](#que-es-un-servlet)
+        - [Ciclo de vida de un Servlet](#ciclo-de-vida-de-un-servlet)
         
     - [Cual es la diferencia entre un JSP y un Servlet](#cual-es-la-diferencia-enre-un-jsp-y-un-servlet)
    
@@ -207,6 +209,12 @@ luego unirlas en tiempo de ejecución
     Su principal misión será orquestar/controlar qué hacer según las peticiones del usuario.
     
     Los servlets usarán los modelos (beans) y redirigirán hacia una vista (JSP) para generar el HTML.
+    
+#### Ciclo de vida de un servlet
+
+    - init
+	  - service
+	  - destroy
 
 #### ¿Java Beans?
 
@@ -221,6 +229,13 @@ luego unirlas en tiempo de ejecución
     El controlador se encargará de redirigir hacia una vista determinada según la petición del usuario.
     Es parecido a PHP. 
     Se usa una etiqueta especial <%  %>
+
+#### Ciclo de vida de un JSP
+
+    - compilacion
+	  - inicializacion
+	  - ejecucion
+	  - limpieza
     
 #### ¿Cual es la diferencia enre un JSP y un Servlet?
 
