@@ -16,18 +16,19 @@
   - [POJO](#que-es-un-pojo)
   - [¿Que es una interfaz?](#que-es-una-interfaz)
   - [Ciclo de vida desarrollo de software](#ciclo-de-vida-del-desarrollo-de-software)
- 
+
  - [MVC](#que-es-una-arquitectura)
-  - [Qué es un patron de diseño](#qué-es-un-patron)
-  - [Qué es el patron MVC](#qué-es-el-patrón-mvc)
-  - [Partes del MVC](#de-qué-partes-se-compone-el-patron-mvc)
-    - [Modelo](#modelo)
-    - [Vista](#vista)
-    - [Controlador](#controlador)
+    - [Qué es un patron de diseño](#qué-es-un-patron)
+    - [Qué es el patron MVC](#qué-es-el-patrón-mvc)
     - [Ventajas del MVC](#ventajas-del-mvc)
-    - [Servlet](#que-es-un-servlet)
-    - [Java Beans](#java-beans)
-    - [JSP](#jsp)
+    - [Partes del MVC](#de-qué-partes-se-compone-el-patron-mvc)
+      - [Modelo](#modelo)
+        - [Java Beans](#java-beans)
+      - [Vista](#vista)
+        - [JSP](#jsp)
+      - [Controlador](#controlador)
+        - [Servlet](#que-es-un-servlet)
+        
     - [Cual es la diferencia entre un JSP y un Servlet](#cual-es-la-diferencia-enre-un-jsp-y-un-servlet)
    
   
