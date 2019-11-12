@@ -132,7 +132,14 @@
      
 ### ¿Que es un POJO?
 
-    Plain Old Java Object
+    <Plain Old Java Object> 
+    Un POJO es una instancia de una clase que no extiende ni implementa nada en especial. Para los programadores 
+    sirve para enfatizar el uso de clases simples y que no dependen de un framework en especial.
+    
+    Por ejemplo, un Controller de Spring tiene que extender de SimpleFormController, e implementar los métodos 
+    abstractos de ese tipo: por eso, no es un POJO. Un Servlet, tiene que extender de HttpServlet por lo que 
+    tampoco es un POJO. En cambio, si defines una clase Cliente con atributos y unas cuantas operaciones, 
+    tienes un simple y modesto POJO.
     
 ### ¿Que es una interfaz?
 
@@ -256,3 +263,4 @@ luego unirlas en tiempo de ejecución
 ## Quiero seguir aprendiendo
 
 - [Difference between servlets and jsp](https://www.quora.com/What-is-the-difference-between-Java-servlets-and-JSP)
+- [Que es un POJO,EJB, y un BEAN?](http://carlospesquera.com/que-es-un-pojo-ejb-y-un-bean/)
