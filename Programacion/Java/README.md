@@ -212,7 +212,7 @@ luego unirlas en tiempo de ejecución
     
 #### Ciclo de vida de un servlet
 
-    - init
+    	  - init
 	  - service
 	  - destroy
 
@@ -232,7 +232,7 @@ luego unirlas en tiempo de ejecución
 
 #### Ciclo de vida de un JSP
 
-    - compilacion
+	  - compilacion
 	  - inicializacion
 	  - ejecucion
 	  - limpieza
