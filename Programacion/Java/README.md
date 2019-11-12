@@ -160,8 +160,8 @@
     
 ### ¿Que es una interfaz?
 
-    Una interfaz es una especie de plantilla para la construcción de clases. Normalmente una interfaz se compone 
-    de un conjunto de declaraciones de cabeceras de métodos (sin implementar, de forma similar a un método abstracto) 
+    Una interfaz es una especie de plantilla para la construcción de clases. Normalmente una interfaz se compone de
+    un conjunto de declaraciones de cabeceras de métodos (sin implementar, de forma similar a un método abstracto) 
     que especifican un protocolo de comportamiento para una o varias clases. 
     
 ### Clase Abstracta
