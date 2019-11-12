@@ -212,9 +212,9 @@ luego unirlas en tiempo de ejecución
     
 #### Ciclo de vida de un servlet
 
-    	  - init
-	  - service
-	  - destroy
+- init
+- service
+- destroy
 
 #### ¿Java Beans?
 
@@ -232,10 +232,10 @@ luego unirlas en tiempo de ejecución
 
 #### Ciclo de vida de un JSP
 
-	  - compilacion
-	  - inicializacion
-	  - ejecucion
-	  - limpieza
+- compilacion
+- inicializacion
+- ejecucion
+- limpieza
     
 #### ¿Cual es la diferencia enre un JSP y un Servlet?
 
