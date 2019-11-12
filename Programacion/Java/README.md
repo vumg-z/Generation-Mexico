@@ -12,6 +12,9 @@
   - [La maquina virtual de Java](#la-maquina-virtual-de-java)
   - [Tipos de datos primitivos](#tipos-de-datos-primitivos)
   - [POO](#Pilares-de-la-programacion-orientada-a-objetos)
+  - [Modificadores de Acceso](#modificadores-de-acceso)
+  - [POJO](#que-es-un-pojo)
+  - [¿Que es una interfaz?](#que-es-una-interfaz)
  
  - [MVC](#que-es-una-arquitectura)
   - [Qué es un patron de diseño](#qué-es-un-patron)
@@ -24,6 +27,8 @@
     - [Servlet](#que-es-un-servlet)
     - [Java Beans](#java-beans)
     - [JSP](#jsp)
+    - [Cual es la diferencia entre un JSP y un Servlet](#cual-es-la-diferencia-enre-un-jsp-y-un-servlet)
+   
   
   
 - [Ejercicios](https://github.com/UrielMendozaG/Java)
@@ -116,11 +121,22 @@
                 
     Es el mecanismo por el cual un objeto puede contestar al mismo mensaje de diferentes maneras.
     
-#### Modificadores de acceso 
+### Modificadores de acceso 
 
      Los modificadores de acceso, como su nombre indica, determinan desde qué clases se puede acceder a un 
      determinado elemento. En Java tenemos 4 tipos: public , private , protected y el tipo por defecto, que 
      no tiene ninguna palabra clave asociada, pero se suele conocer como default o package-private.
+     
+### ¿Que es un POJO?
+
+    Plain Old Java Object
+    
+### ¿Que es una interfaz?
+
+    Es una especie de contrato que especifica que tenemos que utilizar 
+    
+### ¿Cual es la diferencia entre abstract y interface?
+
     
 ### ¿Que es una arquitectura? 
 
@@ -207,15 +223,6 @@ luego unirlas en tiempo de ejecución
 - Los servlet corren mas rapido que los JSP.
 - En MVC, JSP es la vista, mientras que Servlet es el controlador.
 
-#### ¿Que es un POJO?
-
-    Plain Old Java Object
-    
-#### ¿Que es una interfaz?
-
-    Es una especie de contrato que especifica que tenemos que utilizar 
-    
-#### ¿Cual es la diferencia entre abstract y interface?
 
     
 ## Recursos
