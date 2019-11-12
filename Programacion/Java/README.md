@@ -14,8 +14,11 @@
   - [POO](#Pilares-de-la-programacion-orientada-a-objetos)
   - [Modificadores de Acceso](#modificadores-de-acceso)
   - [POJO](#que-es-un-pojo)
+  - [¿Que es un metodo abstracto?](#metodo-abstracto)
   - [¿Que es una interfaz?](#que-es-una-interfaz)
+  - [¿Que es una clase abstracta?](#clase-abstracta)
   - [Ciclo de vida desarrollo de software](#ciclo-de-vida-del-desarrollo-de-software)
+
 
  - [MVC](#que-es-una-arquitectura)
     - [Qué es un patron de diseño](#qué-es-un-patron)
