@@ -141,12 +141,34 @@
     tampoco es un POJO. En cambio, si defines una clase Cliente con atributos y unas cuantas operaciones, 
     tienes un simple y modesto POJO.
     
+### Metodo Abstracto
+
+    Un método abstracto es un método declarado pero no implementado, es decir, es un método 
+    del que solo se escribe su nombre, parámetros y tipo devuelto pero no su código.
+    
+    Los métodos abstractos se escriben sin llaves {} y con ; al final de la declaración.
+    Por ejemplo:
+    
+    public abstract double area();
+    
+    Un método se declara como abstracto porque en ese momento (en esa clase) no se conoce cómo va a ser 
+    su implementación.
+    
+    Por ejemplo: A partir de una clase Polígono se pueden derivar las clases Rectángulo y Triángulo. 
+    Ambas clases derivadas usarán un método área. Podemos declararlo en la clase Polígono como método abstracto 
+    y dejar que cada clase lo implemente según sus necesidades.
+    
 ### ¿Que es una interfaz?
 
-    Es una especie de contrato que especifica que tenemos que utilizar 
+    Una interfaz es una especie de plantilla para la construcción de clases. Normalmente una interfaz se compone 
+    de un conjunto de declaraciones de cabeceras de métodos (sin implementar, de forma similar a un método abstracto) 
+    que especifican un protocolo de comportamiento para una o varias clases. 
     
-### ¿Cual es la diferencia entre abstract y interface?
+### Clase Abstracta
 
+    Una clase que declara la existencia de métodos pero no la implementación de dichos métodos, 
+    se considera una clase abstracta.
+    
     
 ### Ciclo de vida del desarrollo de software
 
