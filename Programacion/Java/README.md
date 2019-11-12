@@ -112,6 +112,9 @@
     
     Esto implica que una vez desarrollado el código de una clase base, su código puede 
     ser reutilizado por las clases derivadas.
+    
+    Importante: NO existe la herencia multiple en java, lo mas parecido a la herencia 
+    multiple es implementar varias interfaces en una sola clase.
 
 #### Abstraccion: 
 
